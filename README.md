@@ -1,2 +1,3 @@
 # CRUD-Application
-Crud application
+
+## CRUD application with Python Flask and SQLAlchemy 
